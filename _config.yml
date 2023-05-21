@@ -15,7 +15,6 @@ future: true
 #include: ["_pages"]
 permalink: /:title/
 
-
 # social links
 twitter_username: jekyllrb
 github_username:  jekyll
