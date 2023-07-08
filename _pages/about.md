@@ -1,8 +1,17 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Who are you?
 permalink: /about
-comments: true
+comments: false
 ---
 
-This page tells you a little bit about me.
+I think, you ought to tell me who you are first...
+
+**I am**  
+I am a daughter    
+I am a sister  
+I am a friend  
+I am a lover  
+I am a worker  
+I am a mother  
+I am a women  
